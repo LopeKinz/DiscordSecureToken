@@ -47,6 +47,9 @@ This Python script allows you to automatically refresh your Discord token at a s
 
 6. The script will automatically refresh the token at the specified interval and display the new token when the refresh is successful.
 
+## Upcoming Features
+- Automaticly get Token and Refesh it
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
