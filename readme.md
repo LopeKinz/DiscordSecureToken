@@ -35,17 +35,16 @@ This Python script allows you to automatically refresh your Discord token at a s
    pip install requests
    ```
 
-3. Replace `'YOUR_OLD_TOKEN'` with your actual old token in the `refresh_token_periodically` function.
 
-4. Run the script:
+3. Run the script:
 
    ```bash
    python DiscordSecureToken.py
    ```
 
-5. Follow the configuration menu prompts to set the refresh interval and start the token refresh process.
+4. Follow the configuration menu prompts to set the refresh interval and start the token refresh process.
 
-6. The script will automatically refresh the token at the specified interval and display the new token when the refresh is successful.
+5. The script will automatically refresh the token at the specified interval and display the new token when the refresh is successful.
 
 ## Upcoming Features
 - Automaticly get Token and Refesh it
